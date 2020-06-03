@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+  background-color: darkgray;
+  width: 50vh;
+  height: 50vh;
+  border-radius: 50%;
+}
+/*# sourceMappingURL=app.component.css.map */
